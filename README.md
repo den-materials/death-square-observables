@@ -16,4 +16,4 @@ In The Galactic Empire, workplace safety and [a host of other issues](https://tw
 
 ### Bonus:
 
-Add an HTML form element that allows the user to type or select a turret number, and update the damage report on the fly using observables.
+Add an HTML form element that allows the user to type or select a turret number, and update the damage report on the fly using data binding and observables. You can refer back to the [Observables Lesson](https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/01.5-observables-recap.md).
