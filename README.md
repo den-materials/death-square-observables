@@ -13,3 +13,7 @@ In The Galactic Empire, workplace safety and [a host of other issues](https://tw
 3) Remove the `toPromise` import from your `InfoWindowComponent`.
 
 4) Convert `findTurret()` to use `subscribe()` instead of `toPromise()` and `then()`, like we demonstrated in the last lesson.
+
+### Bonus:
+
+Add an HTML form element that allows the user to type or select a turret number, and update the damage reply on the fly using observables.
