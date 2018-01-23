@@ -16,4 +16,4 @@ In The Galactic Empire, workplace safety and [a host of other issues](https://tw
 
 ### Bonus:
 
-Add an HTML form element that allows the user to type or select a turret number, and update the damage reply on the fly using observables.
+Add an HTML form element that allows the user to type or select a turret number, and update the damage report on the fly using observables.
